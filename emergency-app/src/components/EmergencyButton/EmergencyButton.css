@@ -1,0 +1,19 @@
+@media screen and (max-width: 600px) {
+
+.emergencyButton {
+    background-color: red;
+    border-radius: 50%;
+    width: 20rem;
+    height: 20rem;
+  margin: 5rem auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.emergencyButton p {
+font-size: 2rem;
+font-family: 'Ubuntu', sans-serif;
+}
+
+}
